@@ -1,4 +1,4 @@
-# NodeJS Learnyou node solutions
+# NodeJS learnyounode solutions
 
 This repo contains self-done excercises for leanyounode from nodeschool.io.
 
